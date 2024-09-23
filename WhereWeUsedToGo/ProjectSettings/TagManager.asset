@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - A
+  - B
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Dirt
+    uniqueID: 1790740339
+    locked: 0
+  - name: Grass
+    uniqueID: 995503667
+    locked: 0
+  - name: Player
+    uniqueID: 53788071
     locked: 0
